@@ -4,8 +4,8 @@
 
 ## 🏠 Architecture
 ![Architecture of the application](architecture.gif)
-
-## Tech stack
+add this image
+## Tech stackhttps://github.com/Samir-CloudAwswithDevops/3-Tier-Arichitecture/issues/1#issue-3520869222
 
 - React 
 - Nodejs

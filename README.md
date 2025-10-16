@@ -1,4 +1,4 @@
-   # 🚀 AWSCloudOps - 3 tier Application project done using RDS and cloudfront 
+   # 🚀 AWSCloudOps - 3 tier Application project done using RDS and ROUTE53 
 
 ✨This repository is created to learn and deploy  3-tier application on aws cloud. this project contain three layer Presentation, Application and database
 

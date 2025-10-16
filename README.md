@@ -4,6 +4,7 @@
 
 ## 🏠 Architecture
 ![Architecture of the application](architecture.gif)
+![Uploading architecture.gif…]()
 
 ## Tech stack
 
